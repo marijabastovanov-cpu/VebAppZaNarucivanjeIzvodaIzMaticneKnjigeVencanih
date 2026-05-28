@@ -1,4 +1,4 @@
-# Veb App ZaNarucivanje Izvoda IzMaticne Knjige Vencanih
+# Veb App Za Narucivanje Izvoda IzMaticne Knjige Vencanih
 
 ## Opis projekta
 
