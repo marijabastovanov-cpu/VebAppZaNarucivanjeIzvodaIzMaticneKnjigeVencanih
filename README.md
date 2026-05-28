@@ -1,5 +1,4 @@
 # Veb App ZaNarucivanje Izvoda IzMaticne Knjige Vencanih
-# Veb aplikacija za naručivanje izvoda iz matične knjige venčanih
 
 ## Opis projekta
 
